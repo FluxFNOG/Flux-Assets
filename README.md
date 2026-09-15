@@ -1,2 +1,2 @@
 # ORIGIN
-![Flux Banner](https://raw.githubusercontent.com/FluxFNOG/Flux-Assets/refs/heads/main/banner-1920x1080.png)
+![Origin Banner]([https://raw.githubusercontent.com/FluxFNOG/Flux-Assets/refs/heads/main/banner-1920x1080.png](https://raw.githubusercontent.com/OriginMP/Assets/refs/heads/main/Banners/banner-1920x1080.png))
